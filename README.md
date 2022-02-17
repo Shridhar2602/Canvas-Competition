@@ -1,5 +1,4 @@
 #  Interactive Simulations
-## Team - Lords of the Bits
 
 A Physics Simulator based on Canvas.
 It includes 2 different simulators:-
